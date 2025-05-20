@@ -58,7 +58,7 @@ It includes:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/semantic-search-engine.git
+git clone https://github.com/venkateshtantravahi/semantic-search-engine.git
 cd semantic-search-engine
 ```
 
