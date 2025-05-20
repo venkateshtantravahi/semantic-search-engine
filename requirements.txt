@@ -1,6 +1,8 @@
 pandas
 numpy
+matplotlib
 sentence-transformers
+seaborn
 faiss-cpu
 scikit-learn
 streamlit
